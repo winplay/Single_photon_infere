@@ -23,5 +23,9 @@
     
     "block5": "monitor pulse info",
     "monitor_start(ps)": 45441800,
-    "monitor_end(ps)":   45443000
+    "monitor_end(ps)":   45443000,
+
+    "block6": "outer count info",
+    "threshold": 1,
+    "inner_loop": 100
 }
